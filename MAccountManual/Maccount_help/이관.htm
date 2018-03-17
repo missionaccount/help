@@ -1,0 +1,115 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="ko">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=ks_c_5601-1987">
+<title>행정비공제</title>
+</head>
+
+<body>
+
+<p><b><font size="2">데이타</font><font size="2"> 변경 및 이관작업 </font></b> </p>
+<p>　</p>
+
+<p><font size="2">서버폴더에 있는 MDB파일의 사본을 복사해 놓고 (혹시 잘못될 경우 원래것으로 대치하기 위해) </font>
+</p>
+<p><font size="2">메뉴의 도구에서 </font></p>
+<p><font size="2">MDB 파일의 비밀번호를 0000으로 바꾸어줍니다. </font></p>
+<p><font size="2">관련사항은 도움말 도구에서 보시면 됩니다. </font></p>
+<p>　</p>
+<p><font size="2">현 시스템에서는 3-4년을 주기로 서버폴더를 변경해서 보관하는 것을 추천합니다. </font></p>
+<p><font size="2">또한 이전 작업내용은 다른 폴더에 두어서 로그인할 때 선별하여 들어가게 하는 것이 좋습니다. </font>
+</p>
+<p><font size="2">예를 들어 </font></p>
+<p><font size="2">이전데이타들은 </font></p>
+<p><font size="2">현재 샘플이 있는 서버폴더를 복사하여 </font></p>
+<p><font size="2">2004MAccount 라고 이름을 바꾸어 놓고 그 안의 데이타들을 수정하시고 </font></p>
+<p><font size="2">2005MAccount 폴더에서 사용하다가 </font></p>
+<p><font size="2">2008년 쯤에는 </font></p>
+<p><font size="2">추가된 선교사와 새로 바뀐 계정과목 등.... 많은 부분이 바뀌게 되게 데이타도 많아지게 되므로 </font>
+</p>
+<p><font size="2">2008년에</font></p>
+<p><font size="2">2008MAccount라는 폴더를 복사하여 생성시킨 후 데이타를 이관시키고 (1년치 정도의 전표만 남겨두면 
+좋음) </font></p>
+<p><font size="2">로그인 때 선별하여 사용하시면 좋습니다. </font></p>
+<p><font size="2">예: </font></p>
+<p><font size="2"><img border="0" src="img/이관1.jpg" width="426" height="60"></font></p>
+<p><font size="2">로그인때 </font></p>
+<p><font size="2"><img border="0" src="img/이관2.gif" width="458" height="334"></font></p>
+<p><font size="2">경로의 명칭을 2005를 2004로 고치고 수정적용 한 후 로그인 하면 이전 데이타의 내용을 보실 수 있습니다.
+</font></p>
+<p>　</p>
+<p><font size="2">MDB파일은 Access 2002 로 구성되어 있습니다. </font></p>
+<p><font size="2"><img border="0" src="img/이관3.gif" width="119" height="337"></font></p>
+<p><font size="2">위와 같은 테이블들이 나타나는데 하나씩 차례로 살펴보도록 하겠습니다. </font></p>
+<p><b><font size="2" color="#0000FF">선교사명과 계정명은 Acct_Obj에 기록되어 있습니다. </font></b>
+</p>
+<p><b><font size="2" color="#0000FF">전표는 가능한 한 이관하지 마십시오. 에러가 날 수 있습니다. </font>
+</b></p>
+<p><b><font size="2" color="#0000FF">전표는 Slip_Det에 기록되어 있습니다.</font></b></p>
+<p><b><font size="2" color="#0000FF">전표제목은 Slip_Com에 기록되어 있습니다. </font></b></p>
+<p><b><font size="2" color="#0000FF">후원자 정보는 Sponsor에 기록되어 있습니다. </font></b></p>
+<p>　</p>
+<p><font size="2">Acct_Obj에 마우스 오른쪽을 두고 디자인보기를 하면 </font></p>
+<p><font size="2"><img border="0" src="img/이관4.gif" width="257" height="92"></font></p>
+<p><font size="2">각 필드의 속성이 나타납니다. </font></p>
+<p><font size="2">그 속성은 절대 변경해서는 안됩니다. </font></p>
+<p><font size="2"><img border="0" src="img/이관5.gif" width="288" height="631"></font></p>
+<p>　</p>
+<p><font size="2">위 속성에 맞게 데이타들을 입력해주면 됩니다. </font></p>
+<p><font size="2"><img border="0" src="img/이관6.gif" width="890" height="379"></font></p>
+<p><font size="2">만일 DBF 파일을 이관해서 오려면 </font></p>
+<p><font size="2">빈 곳에서 마우스 오른 버튼을 눌러 가져오기를 하면 됩니다. </font></p>
+<p><font size="2"><img border="0" src="img/이관7.jpg" width="497" height="506"></font></p>
+<p><font size="2">가져오기 파일은 DBASE III 형식이 가장 무난하면 </font></p>
+<p><font size="2">만일 폭스DB에서 가져오기가 실행되지 않는다면 폭스DB의 형식을 DB의 가장 초기버전으로 저장한 후 가져오기를 
+하시면 됩니다. </font></p>
+<p><font size="2"><img border="0" src="img/이관8.jpg" width="611" height="436"></font></p>
+<p>　</p>
+<p><font size="2">또한 엑셀에서 작업할 수 있습니다. </font></p>
+<p><font size="2">현재 Acct_Obj 파일을 엑셀파일로 파일-내보내기 하시면 </font></p>
+<p><font size="2"><img border="0" src="img/이관9.jpg" width="792" height="524"></font></p>
+<p>　</p>
+<p><font size="2">아래와 같이 엑셀에서 파일을 볼 수 있습니다. </font></p>
+<p><font size="2"><img border="0" src="img/이관10.gif" width="638" height="434"></font></p>
+<p>　</p>
+<p><font size="2">여기서 수정한 다음 </font></p>
+<p><font size="2">Acct_Obj1으로 저장한 후 다시 MDB로 불러들일 수 있습니다. </font></p>
+<p><font size="2"><img border="0" src="img/이관11.jpg" width="629" height="471"></font></p>
+<p>　</p>
+<p><font size="2">기존의 Acct_Obj를 Acct_Obj2 로 명칭을 바꾼 후 </font></p>
+<p><font size="2"><img border="0" src="img/이관12.gif" width="111" height="60"></font></p>
+<p>　</p>
+<p><font size="2">엑셀파일을 가져오기 하면 </font></p>
+<p><font size="2"><img border="0" src="img/이관13.jpg" width="606" height="364"></font></p>
+<p>　</p>
+<p><font size="2"><img border="0" src="img/이관14.jpg" width="482" height="385"></font></p>
+<p>　</p>
+<p><font size="2">아래와 같이 테이블로 입력됩니다. </font></p>
+<p><font size="2">이제 Acct_Obj의 디자인보기를 한 후 Acct_Obj2와 형식을 똑같게 변경시켜 주면 됩니다. </font>
+</p>
+<p><font size="2">모두 변경시켜주면 Acct_Obj2는 삭제합니다. </font></p>
+<p><font size="2"><img border="0" src="img/이관15.gif" width="404" height="315"></font></p>
+<p>　</p>
+<p><font size="2"><img border="0" src="img/이관16.jpg" width="795" height="508"></font></p>
+<p>　</p>
+<p>　</p>
+<p><font size="2">주의사항 </font></p>
+<p><font size="2">후원자 정보에서 Classfy 등 콤보로 선택하는 것들은 반드시 입력되어야 하는 것들입니다. </font>
+</p>
+<p><font size="2">콤보의 예제 <br>
+<img border="0" src="img/이관17.gif" width="116" height="72"></font></p>
+<p><font size="2">그렇지 않으면 NULL 에러가 납니다. </font></p>
+<p><font size="2"><img border="0" src="img/이관18.jpg" width="365" height="640"></font></p>
+<p><font size="2">아래 붉은 테두리에 해당하는 것은 반드시 어떤 값이든 입력되어야 하는 것입니다. (classfy는 1부터 
+3사이)</font></p>
+<p><font size="2"><img border="0" src="img/이관19.gif" width="785" height="198"></font></p>
+<p>　</p>
+<p>　</p>
+<p>　</p>
+
+</body>
+
+</html>

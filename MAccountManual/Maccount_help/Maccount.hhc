@@ -1,0 +1,268 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="도움말 시작">
+		<param name="Local" value="index.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="프로그램 설치">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="설치환경">
+			<param name="Local" value="install.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="설치방법">
+			<param name="Local" value="설치방법.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="처음사용 환경설정">
+			<param name="Local" value="처음사용.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="제품등록">
+			<param name="Local" value="등록.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="기초정보 입력하기">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="계정정보입력">
+			<param name="Local" value="계정정보입력.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="공제관련 환경설정">
+			<param name="Local" value="공제.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="계정과목입력">
+			<param name="Local" value="계정과목정보입력.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="계좌및경로입력">
+			<param name="Local" value="계좌입력.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="전표마감 체크하기">
+			<param name="Local" value="마감.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="각 계정의 기초잔액 입력">
+			<param name="Local" value="기정.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="각 계정과목의 기초잔액">
+			<param name="Local" value="기과.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="각 경로의 기초잔액 입력">
+			<param name="Local" value="기좌.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="행정비 공제 예외사항">
+			<param name="Local" value="예외.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="가상계좌 기초정보 입력하기">
+			<param name="Local" value="가상.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="전표입력">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="전표구분 선택">
+			<param name="Local" value="입1.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="자산_현금예금_증가">
+			<param name="Local" value="입2.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="현금_예금 입금할때">
+			<param name="Local" value="입3.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="예금 계좌간 이동">
+			<param name="Local" value="입4.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="계정간 내부거래">
+			<param name="Local" value="입5.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="대체전표">
+			<param name="Local" value="입6.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="전표편집및조회">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="전표수정">
+			<param name="Local" value="수정.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="전표 조회 및 수정">
+			<param name="Local" value="조회.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="행정비공제 일괄처리">
+			<param name="Local" value="행공.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="기타공제 일괄처리">
+			<param name="Local" value="기공.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="정기간행물 관련 일괄처리">
+			<param name="Local" value="정기.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="자료출력">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="자금일일 시재보기">
+			<param name="Local" value="일일.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="수지합계 비교보기">
+			<param name="Local" value="수지.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="일별 예금현금 흐름표">
+			<param name="Local" value="일별.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="계정별 자금수지 보기">
+			<param name="Local" value="계자.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="계정별 수지내역 - 항목 보기">
+			<param name="Local" value="계수.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="손익계산서 보기">
+			<param name="Local" value="손익.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="대차대조표 보기">
+			<param name="Local" value="대차.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="영수증 출력">
+			<param name="Local" value="영수증보기.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="합계잔액 시산표 보기">
+			<param name="Local" value="시산.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="계정과목 내역보기">
+			<param name="Local" value="과목조회.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="현금 및 예금 수지내역 보기">
+			<param name="Local" value="현금수지.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="후원자 관련">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="후원자 관리">
+			<param name="Local" value="후1.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="선교사별 후원자 보기 및 인쇄">
+			<param name="Local" value="후2.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="선교사별 후원통계-일괄처리">
+			<param name="Local" value="후3.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="후원회원 통계보기">
+			<param name="Local" value="후4.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="후원회원 리스트 보기">
+			<param name="Local" value="후5.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="후원회원 조회 및 인쇄">
+			<param name="Local" value="후6.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="여러선교사의 후원자봉투 출력">
+			<param name="Local" value="후7.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="팝업">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="후원자창">
+			<param name="Local" value="팝1.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="계정정보창">
+			<param name="Local" value="팝2.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="계정과목창">
+			<param name="Local" value="팝3.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="계좌정보창">
+			<param name="Local" value="팝4.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="우편번호찾기">
+			<param name="Local" value="팝5.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="도구">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="DB 최적화 및 파일정리">
+			<param name="Local" value="도구.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="엑셀저장">
+		<param name="Local" value="엑셀.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="인쇄 환경설정">
+		<param name="Local" value="인쇄.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="메일보내기">
+		<param name="Local" value="메일보내기.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="데이타 변경 및 이관">
+		<param name="Local" value="이관.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>
